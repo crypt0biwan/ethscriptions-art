@@ -1,5 +1,8 @@
 # Ethscriptions Art Projects
 
+An overview of original art projects (non pfp projects), ordered by first ethscription asc.
+If your art project should be added, please submit a PR! 😊
+
 | Name | First ethscription | Last ethscription | Supply | Link |
 |---|---|---|---|---|
 | BLOCKS | 15 | 173740 | 20 | https://ethscriptions.com/collections/blocks |
